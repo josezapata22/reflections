@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+
+making finding the error way faster than looking through all the code   
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+
+    
+
+yes, it will make youy a more efficcient programmer , becoause you wont spend so much time looking for an error you comitted before, everyone cold have a typo in their code
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+ 
+  its better to havce your versions saved wehenever you wants because you can keep them logical, so when you compare the commits , they could be usefull. the downside is that you have to manually save, and if you forget to do it ,
+ you could haver a commit thats way too big, and it turns out to be useless
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, 
+like Google Docs, treat each file separately?
+
+   
+ 
+because git is focused on programming , so you wold like to keep track of the changes made on all of the files, 
+whether on google docs, is focused on tewxt editing so they wont focus on keepiung track of all of the documentts simultaneously 
+
+How can you use the commands git log and git diff to view the history of files?
+
+  
+you can use git log to see all the comits that were made in the repository,and git diff so you can compare what whas done between 2 commits  
+
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+
+   
+you knwo you alkways have a backup if you mess things up, so you can feel more free to do whaterver you want wioth the code, knowing you can go back to an initial state
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+ 
+   
+having this tool to workl more efficciently and let my imagination fly while making a new project

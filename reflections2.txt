@@ -2,6 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 when you initialize a repository, git creates a .git file wich is hidden in most explorers, thats the place previos commits get saved,also creates an empty repository where there are no commits yet, and says untracked files and contains all the files in the folder, you do it with git init
 
 How is the staging area different from the working directory and the repository?
+is a place where you add the files you want in a commit, is different because if you dont add i= a file, and modify it, you loose that prvious version, you add it to the staging area to choose wich files you want to commit to put it in the repository
+
 What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
