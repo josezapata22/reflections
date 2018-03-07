@@ -7,7 +7,7 @@ is a place where you add the files you want in a commit, is different because if
 What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
-change?
+change? when you add it to de staging area, you use git status, and there you see what files had been modified, so you know that if you already modified a file , you put it in the stagin area before commiting
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
