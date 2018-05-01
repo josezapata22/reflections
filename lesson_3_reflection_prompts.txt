@@ -6,7 +6,7 @@ when you're working with a group of fpeople, and also you want to have a backup 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+when you are working with more people, you dont want to get all those changes if you were working on a piece of code, that could ruin the changes youve made 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
