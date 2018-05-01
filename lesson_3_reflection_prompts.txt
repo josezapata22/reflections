@@ -11,12 +11,14 @@ when you are working with more people, you dont want to get all those changes if
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    forks opy a repository on github directly onto your github profile,
+    clones takes a repository on github and copys it onto your pc
+    branches, are 2 divertions you make to try , or add new features onto an existing project without damaging any of the code that was previously written
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    so yo can compare what you have done if you loose internet connection
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
